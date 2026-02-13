@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.python-version
+env/
+venv/
+venv\
+ENV/
+.env
+.env.*
+.pytest_cache/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# JetBrains
+.idea/
+
+# Streamlit
+.streamlit/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+.venv/
+
+# Model / data files
+models/
+data/
+
+# FAISS index
+*.index
+
+# Others
+*.log
+*.pyc
